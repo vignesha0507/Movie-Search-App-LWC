@@ -15,7 +15,7 @@ This is a Lightning Web Component (LWC) project built on the Salesforce platform
 ---
 
 ## 📸 Screenshots
-
+![Movie search Interface](screenshots/movie-search-ui.png)
 ## 📌 Features
 
 - 🔍 Debounced search input to reduce API calls
