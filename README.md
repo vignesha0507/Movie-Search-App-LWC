@@ -23,7 +23,6 @@ This is a Lightning Web Component (LWC) project built on the Salesforce platform
 - 📄 Paginated results
 - 🔄 Dynamic UI with real-time input handling
 - 🔃 Communication between components
-- ⚡ External API integration via Apex callout
 
 ---
 
