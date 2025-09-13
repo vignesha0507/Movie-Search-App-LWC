@@ -8,7 +8,7 @@ This is a Lightning Web Component (LWC) project built on the Salesforce platform
 ## 🌐 Live Demo
 
 🧪 **Check it out here:**  
-👉 ([(https://orgfarm-064530f1a4-dev-ed.develop.my.site.com/moviesearch/))](https://orgfarm-064530f1a4-dev-ed.develop.my.site.com/moviesearch/)
+👉 ([(https://orgfarm-064530f1a4-dev-ed.develop.my.site.com/moviesearch/)](https://orgfarm-064530f1a4-dev-ed.develop.my.site.com/moviesearch/)
 
 > ℹ️ *This is a public-facing LWR site deployed from Salesforce Experience Cloud.*
 
